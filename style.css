@@ -1,6 +1,6 @@
 @font-face {
     font-family: head;
-    src: url(/Heading-Now-Variable.ttf);
+    src: url(Heading-Now-Variable.ttf);
 }
 
 /*------------- boilerplate--------------- */
@@ -509,7 +509,7 @@ nav ul a {
 .hero-img {
     -webkit-animation: morph 8s ease-in-out infinite;
     animation: morph 8s ease-in-out infinite;
-    background-image: url(/images/portfolio-img2.jpg);
+    background-image: url(images/portfolio-img2.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
