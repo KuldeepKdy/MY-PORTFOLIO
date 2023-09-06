@@ -3,7 +3,7 @@
 <p>MY <b>PORTFOLIO WEBSITE</b>
 Check it Out!!!!</p>
 
-👉 Live Demo: <a href='https://kuldeepkdy.github.io/GOLF-Website/'>Live Demo</a>
+👉 Live Demo: <a href='https://kuldeepkdy.github.io/MY-PORTFOLIO/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
@@ -15,6 +15,6 @@ Check it Out!!!!</p>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src=https://github.com/KuldeepKdy/GOLF-Website/assets/134807119/1e5fb9b2-d4a2-4e79-a8db-61bf99c93ad4/>
+<img src=https://github.com/KuldeepKdy/MY-PORTFOLIO/assets/134807119/d4806fa8-108f-4713-84aa-cf2490f72341/>
 
 </div>
