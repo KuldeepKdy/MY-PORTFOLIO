@@ -15,6 +15,6 @@ Check it Out!!!!</p>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src=https://github.com/KuldeepKdy/MY-PORTFOLIO/assets/134807119/d4806fa8-108f-4713-84aa-cf2490f72341/>
+<img src=https://github.com/KuldeepKdy/MY-PORTFOLIO/assets/134807119/d3711a30-9b3f-4839-b2b4-c3445e4e2d5a/>
 
 </div>
