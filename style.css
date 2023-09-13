@@ -610,9 +610,15 @@ nav ul a {
     text-align: center;
 }
 
+
 .skills ul li img {
     height: 3.4rem;
     width: 3.4rem;
+}
+
+.logos ul li:hover {
+    transform: translateY(-10px);
+    transition: all .3s ease-in-out;
 }
 
 /*------------- Section-2 about------------ */
@@ -1208,14 +1214,25 @@ footer h3 {
 
 .footerc__socials {
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
 }
 
 .footerc__socials i {
     color: #fff;
-    font-size: 2.3rem;
+    font-size: 2.6rem;
+}
+
+.footerc__socials i:hover {
+    transform: scale(1.3);
+    transition: all 0.2s linear;
 }
 
 .fa-brands {
     font-weight: 400;
+}
+
+/* blue color */
+.blue:hover {
+    color: #147efb;
+    transition: all 0.2s linear;
 }
