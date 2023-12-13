@@ -7,13 +7,13 @@ const mobileprojects = document.getElementById("mobile-projects");
 const mobilecontact = document.getElementById("mobile-contact");
 
 //------------ Cursor------------
-var section = document.querySelector("#root");
-var crsr = document.querySelector("#cursor");
+// var section = document.querySelector("#root");
+// var crsr = document.querySelector("#cursor");
 
-section.addEventListener("mousemove", function (dets) {
-  crsr.style.left = dets.x + "px";
-  crsr.style.top = dets.y + "px";
-});
+// section.addEventListener("mousemove", function (dets) {
+//   crsr.style.left = dets.x + "px";
+//   crsr.style.top = dets.y + "px";
+// });
 
 // Loader Page  and Scroller Page Gsap+Java Script
 var tl = gsap.timeline();
